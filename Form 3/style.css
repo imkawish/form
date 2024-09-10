@@ -1,0 +1,38 @@
+body{
+    padding-left: 350px;
+}
+
+.main{
+    width: 600px;
+    height: 1000px;
+}
+
+h3{ padding: 10px;
+    display: inline;
+}
+
+.steps{
+    margin-top: 10%;
+    width: 600px;
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+.step1{
+    background-color: rgb(114, 218, 149);
+}
+
+.step2{
+    background-color: rgb(114, 218, 149);
+} 
+
+.step3{
+    background-color: rgb(50, 144, 221);
+}
+
+textarea{
+    width: 300px;
+    height: 70px;
+}
+fieldset{
+    padding-left: 30px;
+}

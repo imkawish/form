@@ -1,0 +1,30 @@
+body{
+    padding-left: 350px;
+}
+
+.main{
+    width: 600px;
+    height: 1000px;
+}
+
+h3{
+    padding: 10px;
+    display: inline;
+    background-color: rgb(179, 178, 178);
+}
+.steps{
+    margin-top: 10%;
+    width: 600px;
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+.step1{
+    background-color: rgb(50, 144, 221);
+}
+
+input{
+    width: 500px;
+}
+fieldset{
+    padding-left: 30px;
+}
